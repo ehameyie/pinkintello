@@ -1,2 +1,2 @@
 # pinkintello
-#For my perosnal projetcs in data mining
+#For my personal projetcs in data mining
