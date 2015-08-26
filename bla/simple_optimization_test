@@ -1,4 +1,4 @@
-%% Optimization of eight units: Four Bias Zones and Four Interruptible Load Assets
+%% Optimization of eight units: Four continuous zones and Four on/off assets
 % The constraints of operation are maximum runtime, minimum interruption time and cost of interruption.
 % In the case of the bias zones, constraints are bias cost.
 % Added 5-min output increments, and ramping the precooling from -0.5 to
