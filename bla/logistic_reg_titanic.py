@@ -13,7 +13,7 @@ from sklearn.cross_validation import train_test_split
 import scipy.optimize as optim
 
 #read input file for training
-data=pd.read_csv('C:/EuniceSelfTests/Titanic_train.csv')
+data=pd.read_csv('xxx/Titanic_train.csv')
 data_header= data.head()
 data_descript = data.describe()
 
