@@ -1,2 +1,3 @@
-# pinkintello
-#For my personal projects in data mining
+#Pinkintello
+## My blog's repository where I post my work for personal and fun projects
+## Visit my blog at pinkintello.com
